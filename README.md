@@ -8,13 +8,13 @@ I’ve been in the Computer Science program for four years, during which I’ve 
 
 ## Original Artifacts
   - [Software Engineering & Design Orginal Artifact](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Software%20Engineering%20and%20Design/Original%20Artifact)
-  - [Algorithms and Data Structures Orginal Artifact](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Algorithms%20and%20Data%20Structures/Original%20Artifact)
+  - [Algorithms and Data Structures Orginal Artifact](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Algorithms%20and%20Data%20Structures/Original%20Artifact/Project1/Project1)
   - [Databases Orginal Artifact](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Databases/Original%20Artifact)
 
 ## Enchantments
-  - [Software Engineering & Design Enhanced](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Software%20Engineering%20and%20Design/Enhanced%20Artifact)
-  - [Algorithms and Data Structures Enhanced](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact)
-  - [Databases Enhanced](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Databases/Enhanced%20Artifact)
+  - [Software Engineering & Design Enhanced](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Software%20Engineering%20and%20Design/Enhanced%20Artifact/containerized_app)
+  - [Algorithms and Data Structures Enhanced](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/Project1)
+  - [Databases Enhanced](https://github.com/mthulhu/Portfolio/tree/main/ePortfolio/Databases/Enhanced%20Artifact/containerized_app)
 
 ## Narratives
   - [Software Engineering & Design Narrative](https://mthulhu.github.io/Portfolio/ePortfolio/Narratives/Software%20Engineering%20%26%20Design%20Narrative.pdf)
