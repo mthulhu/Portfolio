@@ -1,13 +1,15 @@
-# Portfolio
+# Matt Krueger's CS-499 ePortfolio
 
-## Calendar Sync
+## About me
+I’ve been in the Computer Science program for four years, during which I’ve developed key technical skills in both front-end and back-end development, collaborated using source control tools, and learned software quality control through testing methodologies and development lifecycle studies. As part of my coursework enhancements, I’m focused on demonstrating my ability to design complex systems, integrate with third-party APIs, apply data structures to real-world problems, and build full-stack applications using Model-View-Controller patterns. These skills directly align with my career goal of becoming a senior-level solutions architect engineering consultant, as they strengthen my technical expertise and leadership potential. My enhancements also support my targeted specialization by showcasing my ability to solve problems across all layers of a system, automate workflows for efficiency, and improve project utility through thoughtful design.
 
-I created a calendar integration tool that I build to automate a common process I use at work. When I add time off to my personal calendar, I also have to add it to a shared calendar that shows everyone’s time off. My automation script runs when my personal calendar is changed and checks for a time off event’s creation, then adds it to the shared calendar automatically. Runs through Google Apps Script
+## Code review
 
-## Collaboration and Team Project
+## Original Artifacts
 
-This is a Jukebox simulation on a command line interface. 
+## Enchentments
 
-## Client Server Development
-
-This project is a web application front end that connected to a local MongoDB instance to display data about rescue dogs.
+## Narratives
+  - [Software Engineering & Design Narrative]()
+  - [Algorithms and Data Structures Narrative]()
+  - [Databases Narrative]()
